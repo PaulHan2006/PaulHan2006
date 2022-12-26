@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Paul Han,a high school student from South Korea
-- 🌱 I’m currently working on pipetcpt/trainees 
+- 👋 **Hi**, I’m **Paul Han**, a high school student from South Korea.
+- 🌱 I’m currently working on [pipetcpt/trainees](https://github.com/pipetcpt/trainees) 
 - 💞️ I’m currently learning Java and R
-- 📫 How to reach me: dc.paulhan@gmail.com
+- 📫 How to reach me: <dc.paulhan@gmail.com>
 
-<!---
-PaulHan2006/PaulHan2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Vision of the future](https://i.pinimg.com/originals/fb/b2/0f/fbb20f05323a3ce6ab6ac415024d74f1.jpg)
